@@ -1,0 +1,6 @@
+{
+    "listening_addresses": ["0.0.0.0"],
+    "listening_ports": ["8620"],
+    "remote_addresses": ["192.168.8.2"],
+    "remote_ports": ["8620"]
+}
